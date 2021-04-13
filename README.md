@@ -17,7 +17,8 @@
 <img align="left" alt="Ravan | Discord" width="22px" src="https://droplr.com/wp-content/uploads/2020/06/iconfinder_discord_2308078-512x400.png" >Ravan#7630| Discord</img>
 </br>
 
-```Web Dev
+
+```py
   Ravan = [
   OS: [WINDOWS],  
   code: [Front End, ],
