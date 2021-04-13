@@ -1,7 +1,7 @@
 ### Ravan-Seyfullayev or just Ravan
 
 
-## I'm Web Dev Developer!
+## I'm Web Developer!
 
 -  Web Dev is important to me. 
 -  Also I love Math and I try to learn it. 
@@ -10,6 +10,7 @@
 <br>
 
 [<img align="left" alt="Ravan | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" >Ravan Facebook</img>][facebook]
+<br />
 [<img align="left" alt="Ravan | Instagram" width="22px" src="https://robots.net/wp-content/uploads/2020/03/Photo-by-Tumisu-1-1-600x595.jpg" >Ravan Facebook</img>][instagram]
 <br />
 <br>
