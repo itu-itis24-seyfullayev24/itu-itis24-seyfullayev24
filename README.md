@@ -3,9 +3,9 @@
 
 ## I'm Web Developer!
 
--  Web Dev is important to me. 
--  Also I love Math and I try to learn it. 
--  I'm learning Web Dev and Also App. Dev. (React Native) 
+-  I love coding websites and doing much more.  
+-  Also I love delving into some hard math problems.
+-  I'm boosting my knowledge in fields such as Web Dev and App. Dev. (React Native) 
 
 <br>
 
