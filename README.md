@@ -25,7 +25,9 @@
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="PHP" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/php-logo.png" />
+<img align="left" alt="Next" width="26px" src = "https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" />
+<img align="left" alt="react" width="26px" src = "[https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9W1xTscEcGKYWa8Ksx4eU7mOh-Tyk-uRVvw&s)" />
+
 
 
 [instagram]: https://www.instagram.com/ravan_seyfullayev/
