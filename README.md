@@ -1,21 +1,11 @@
-### Ravan-Seyfullayev or just Ravan
+### Ravan
 
 
-## I'm Web Developer!
+## Currently a Web Developer.
 
 -  I love coding websites and doing much more.  
 -  Also I love delving into some hard math problems.
 -  I'm boosting my knowledge in fields such as Web Dev and App. Dev. (React Native) 
-
-<br>
-
-[<img align="left" alt="Ravan | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" >Ravan Facebook</img>][facebook]
-<br />
-[<img align="left" alt="Ravan | Instagram" width="22px" src="https://robots.net/wp-content/uploads/2020/03/Photo-by-Tumisu-1-1-600x595.jpg" >Ravan Facebook</img>][instagram]
-<br />
-<br>
-<img align="left" alt="Ravan | Discord" width="22px" src="https://droplr.com/wp-content/uploads/2020/06/iconfinder_discord_2308078-512x400.png" >Ravan#7630| Discord</img>
-</br>
 
 
 ```py
