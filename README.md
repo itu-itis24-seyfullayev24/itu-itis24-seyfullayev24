@@ -1,18 +1,17 @@
 ### Ravan
 
 
-## Currently a Web Developer.
+## Web Dev and Machine learning
 
 -  I love coding websites and doing much more.  
 -  Also I love delving into some hard math problems.
--  I'm boosting my knowledge in fields such as Web Dev and App. Dev. (React Native) 
+-  I'm boosting my knowledge in fields such as web dev and machine learning.
 
 
 ```py
   Ravan = [
-  OS: [WINDOWS],  
-  code: [Front End, Back End, Application Development],
-  Interest: [WebDev, Appdev, Math],
+  code: [Front End, Back End, Machine learning]
+  interest: [WebDev, Piano, Books, Math, Deep learning],
   challenge: "To learn something everyday Rule number one!"
 ]
 ```
