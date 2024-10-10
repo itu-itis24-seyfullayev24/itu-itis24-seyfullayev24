@@ -10,8 +10,8 @@
 
 ```py
   Ravan = [
-  code: [Front End, Back End, Machine learning]
-  interest: [WebDev, Piano, Books, Math, Deep learning],
+  code: [Front End, Back End, Machine_learning]
+  interest: [WebDev, Piano, Books, Math, Deep_learning],
   challenge: "To learn something everyday Rule number one!"
 ]
 ```
