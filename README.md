@@ -1,12 +1,7 @@
 ### Ravan [MODIFIED BY RAVAN SEYFULLAYEV. 150240928]
 
 
-## Web Dev and Machine learning
-
--  I love coding websites and doing much more.  
--  Also I love delving into some hard math problems.
--  I'm boosting my knowledge in fields such as web dev and machine learning.
-
+## Web Dev and ML
 
 ```py
   Ravan = [
